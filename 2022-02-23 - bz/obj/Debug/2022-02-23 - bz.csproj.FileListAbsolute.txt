@@ -1,0 +1,10 @@
+D:\_Szoftverfejlesztés\2022-02-23 - programozas\2022-02-23 - bz\2022-02-23 - bz\bin\Debug\2022-02-23 - bz.exe.config
+D:\_Szoftverfejlesztés\2022-02-23 - programozas\2022-02-23 - bz\2022-02-23 - bz\bin\Debug\2022-02-23 - bz.exe
+D:\_Szoftverfejlesztés\2022-02-23 - programozas\2022-02-23 - bz\2022-02-23 - bz\bin\Debug\2022-02-23 - bz.pdb
+D:\_Szoftverfejlesztés\2022-02-23 - programozas\2022-02-23 - bz\2022-02-23 - bz\obj\Debug\2022-02-23 - bz.csproj.AssemblyReference.cache
+D:\_Szoftverfejlesztés\2022-02-23 - programozas\2022-02-23 - bz\2022-02-23 - bz\obj\Debug\_2022_02_23___bz.Form1.resources
+D:\_Szoftverfejlesztés\2022-02-23 - programozas\2022-02-23 - bz\2022-02-23 - bz\obj\Debug\_2022_02_23___bz.Properties.Resources.resources
+D:\_Szoftverfejlesztés\2022-02-23 - programozas\2022-02-23 - bz\2022-02-23 - bz\obj\Debug\2022-02-23 - bz.csproj.GenerateResource.cache
+D:\_Szoftverfejlesztés\2022-02-23 - programozas\2022-02-23 - bz\2022-02-23 - bz\obj\Debug\2022-02-23 - bz.csproj.CoreCompileInputs.cache
+D:\_Szoftverfejlesztés\2022-02-23 - programozas\2022-02-23 - bz\2022-02-23 - bz\obj\Debug\2022-02-23 - bz.exe
+D:\_Szoftverfejlesztés\2022-02-23 - programozas\2022-02-23 - bz\2022-02-23 - bz\obj\Debug\2022-02-23 - bz.pdb
